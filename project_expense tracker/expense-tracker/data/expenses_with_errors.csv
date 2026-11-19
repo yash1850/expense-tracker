@@ -1,0 +1,8 @@
+date,description,amount,category
+2026-10-05,Coffee,150.00,Food
+2026-10-06,Notebook,-80.00,Education
+not-a-date,Taxi,200.00,Transport
+2026-10-07,,300.00,Food
+22jsjs,Water bill,abc,Utilities
+2026-10-09,Gym membership,1200.00,
+2026-10-10,Snacks,90.50,Food
